@@ -16,14 +16,10 @@ Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous acco
 
 ### Git & GitHub
 
-- **[Créer son premier dépôt GitHub](premier-depot.md)**
-  - Accéder à la création d'un nouveau dépôt
-  - Configurer votre dépôt
-  - Initialiser le dépôt
-  - Créer le dépôt
-  - Découvrir votre dépôt
-  - Modifier le README
-  - Cloner votre dépôt sur votre ordinateur
+- **[Installer Git et cloner un premier dépôt](tutoriel_git.md)**
+  - Installer Git sur Windows, macOS ou Linux
+  - Vérifier l'installation
+  - Cloner le dépôt Services-Web-sur-Raspberry depuis GitHub
 
 ### Développement Web
 
