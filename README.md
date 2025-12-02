@@ -1,40 +1,64 @@
-# 📘 guides-etudiants
+# 📚 Guides et Tutoriels pour les étudiants du BTS CIEL
 
-Tutoriels et guides pour les étudiants du **BTS CIEL**
+Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous accompagner dans votre apprentissage.
 
-------------------------------------------------------------------------
+---
 
-# 📑 Sommaire
+## 📋 Liste des tutoriels disponibles
 
-1.  [Introduction](#introduction)\
-2.  [Tutoriels disponibles](#tutoriels-disponibles)
-    -   [Créer son premier dépôt Git](premier-depot.md)\
-    -   [Installer Git et cloner un dépôt](tutoriel_git.md)\
-3.  [Licence](#licence)
+### Git & GitHub
 
-------------------------------------------------------------------------
+- **[Créer son premier dépôt GitHub](premier-depot.md)**
+  - Apprendre à créer un dépôt sur GitHub
+  - Comprendre les bases du Markdown
+  - Cloner un dépôt localement
+  - Utiliser les commandes Git essentielles
 
-# 📝 Introduction
+### Développement Web
 
-Ce dépôt contient différents tutoriels destinés aux étudiants du BTS
-CIEL pour les aider à utiliser Git, GitHub et d'autres outils
-techniques.
+- **[Afficher les erreurs PHP sur Apache 2](afficher-erreurs-php-apache.md)**
+  - Configuration du fichier php.ini
+  - Activation de l'affichage des erreurs pour le débogage
+  - Bonnes pratiques de sécurité
 
-------------------------------------------------------------------------
+---
 
-# 📚 Tutoriels disponibles
+## 🎯 Comment utiliser ces tutoriels
 
-### ▶️ 1. Créer son premier dépôt Git
+1. Cliquez sur le lien du tutoriel qui vous intéresse
+2. Suivez les étapes décrites
+3. N'hésitez pas à revenir consulter les tutoriels quand vous en avez besoin
 
-📄 Fichier : [premier-depot.md](premier-depot.md)
+---
 
-### ▶️ 2. Installer Git et cloner un dépôt
+## 🔗 Ressources complémentaires
 
-📄 Fichier : [tutoriel_git.md](tutoriel_git.md)
+### Raspberry Pi
+- [TP Installation des services WEB sur Raspberry Pi](https://github.com/oliv2a/Services-Web-sur-Raspberry)
 
-------------------------------------------------------------------------
+### Documentation officielle
+- [Documentation GitHub](https://docs.github.com)
+- [Documentation PHP](https://www.php.net/manual/fr/)
+- [Documentation Apache](https://httpd.apache.org/docs/)
 
-# 📄 Licence
+---
 
-Ce projet est distribué sous licence MIT.\
-Voir le fichier : [LICENSE](LICENSE)
+## 💡 Besoin d'aide ?
+
+Si vous rencontrez des difficultés :
+1. Relisez attentivement le tutoriel
+2. Vérifiez que vous avez bien suivi toutes les étapes
+3. Consultez la section "Dépannage" si elle existe dans le tutoriel
+4. N'hésitez pas à demander de l'aide à votre enseignant
+
+---
+
+## 📝 À propos
+
+Ces tutoriels sont créés et maintenus pour les étudiants du **BTS CIEL Laetitia Bonaparte**.
+
+Dernière mise à jour : Décembre 2024
+
+---
+
+**Bonne formation ! 🚀**
