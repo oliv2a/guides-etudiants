@@ -14,6 +14,17 @@ Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous acco
   - Cloner un dépôt localement
   - Utiliser les commandes Git essentielles
 
+### Git & GitHub
+
+- **[Créer son premier dépôt GitHub](premier-depot.md)**
+  - Accéder à la création d'un nouveau dépôt
+  - Configurer votre dépôt
+  - Initialiser le dépôt
+  - Créer le dépôt
+  - Découvrir votre dépôt
+  - Modifier le README
+  - Cloner votre dépôt sur votre ordinateur
+
 ### Développement Web
 
 - **[Afficher les erreurs PHP sur Apache 2](afficher-erreurs-php-apache.md)**
