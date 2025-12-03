@@ -28,6 +28,11 @@ Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous acco
   - Activation de l'affichage des erreurs pour le débogage
   - Bonnes pratiques de sécurité
 
+### Raspberry Pi
+
+- **[Automatiser un Script Python avec Crontab sur Raspberry Pi](tuto-crontab.md)**
+  - Configuration Crontab sur le Raspberry Pi dans un environement virtuel
+
 ---
 
 ## 🎯 Comment utiliser ces tutoriels
