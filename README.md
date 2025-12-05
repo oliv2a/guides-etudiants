@@ -33,6 +33,27 @@ Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous acco
 - **[Automatiser un Script Python avec Crontab sur Raspberry Pi](tuto-crontab.md)**
   - Configuration Crontab sur le Raspberry Pi dans un environement virtuel
 
+- **[Créer une image Raspberry Pi avec Pi Imager](tuto-raspberry-pi-imager.md)**
+  - Installation de Raspberry Pi Imager
+  - Téléchargement automatique ou image locale
+  - Configuration pré-boot (WiFi, SSH, utilisateur)
+  - Premier démarrage et vérifications
+
+### Serveurs & Infrastructure
+
+- **[Installation VSFTPD - Serveur FTP sur Linux](installation-vsftpd-linux.md)**
+  - Installation et configuration de VSFTPD
+  - Gestion multi-utilisateurs
+  - Accès anonyme
+  - Sécurisation et modes PASV
+
+- **[Installation LAMP - Apache, PHP, MariaDB, phpMyAdmin](installation-lamp-ubuntu.md)**
+  - Installation complète d'une stack LAMP
+  - Configuration d'Apache et PHP
+  - Gestion de bases de données MariaDB
+  - phpMyAdmin pour l'administration web
+  - Configuration HTTPS avec Let's Encrypt
+
 ---
 
 ## 🎯 Comment utiliser ces tutoriels
