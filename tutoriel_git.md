@@ -16,7 +16,7 @@ On suppose que vous avez déjà un **compte GitHub**.
 
 ## 🪟 Sous Windows
 
-1.  Rendez-vous sur : https://git-scm.com/download/win\
+1.  Rendez-vous sur : https://git-scm.com/install/windows\
 2.  Le téléchargement démarre automatiquement.\
 3.  Lancez le fichier `.exe` téléchargé.\
 4.  Cliquez sur **Next** pour toutes les options par défaut.\
