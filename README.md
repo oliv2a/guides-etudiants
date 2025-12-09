@@ -54,7 +54,7 @@ Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous acco
   - phpMyAdmin pour l'administration web
   - Configuration HTTPS avec Let's Encrypt
 
-- ** [Installation, Prise en Main et Configuration d'un Réseau Privé](/tutoriel-cisco-packet-tracer.md)
+- **[Tutoriel Cisco Packet Tracer](/tutoriel-cisco-packet-tracer.md)
   - Introduction
   - Installation de Cisco Packet Tracer
   - Prise en main de l'interface
