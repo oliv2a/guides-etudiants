@@ -54,13 +54,22 @@ Bienvenue ! Ce dépôt contient des tutoriels et guides pratiques pour vous acco
   - phpMyAdmin pour l'administration web
   - Configuration HTTPS avec Let's Encrypt
 
-- [Tutoriel Cisco Packet Tracer](/tutoriel-cisco-packet-tracer.md)
+- **[Tutoriel Cisco Packet Tracer](/tutoriel-cisco-packet-tracer.md)**
   - Introduction
   - Installation de Cisco Packet Tracer
   - Prise en main de l'interface
   - Configuration d'un réseau privé avec passerelle
   - Tests et vérification
  
+- **[Wireshark - Analyse de Protocoles Réseaux - Prise en main](tp-wireshark-analyse-reseaux.md)
+
+  - Installation de Wireshark
+  - Prise en main de l'interface
+  - Analyse de trames
+  - Analyse du protocole DHCP
+  - Capture de trames
+  - Manipulations pratiques
+
 ---
 
 ## 🎯 Comment utiliser ces tutoriels
