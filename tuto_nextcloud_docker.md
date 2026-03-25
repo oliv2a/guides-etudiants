@@ -72,9 +72,14 @@ services:
 
 ## 3. Lancement de Nextcloud
 
+> **📌 Note importante :** Toutes les commandes `docker compose` doivent être exécutées depuis le répertoire `~/nextcloud` où se trouve le fichier `docker-compose.yml`. Si vous changez de répertoire, pensez à revenir avec `cd ~/nextcloud`.
+
 ### Démarrer les conteneurs
 
+**Important :** Assurez-vous d'être dans le répertoire contenant le fichier `docker-compose.yml` avant de lancer les commandes.
+
 ```bash
+cd ~/nextcloud
 docker compose up -d
 ```
 
@@ -164,6 +169,7 @@ docker compose restart
 ### Voir les logs
 
 ```bash
+cd ~/nextcloud
 docker logs nextcloud-app
 docker logs nextcloud-db
 ```
